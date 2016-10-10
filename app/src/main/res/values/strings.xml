@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dost</string>
+    <string name="server_URL">http://192.168.1.38</string>
+    <string-array name="crop_array">
+        <item>Wheat</item>
+        <item>Maize</item>
+        <item>Barley</item>
+        <item>Rice</item>
+    </string-array>
+</resources>
